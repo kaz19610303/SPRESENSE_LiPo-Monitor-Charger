@@ -1,4 +1,3 @@
-'''MAX17048_basic.ino
 #include "Adafruit_MAX1704X.h"
 
 Adafruit_MAX17048 maxlipo;
@@ -25,4 +24,3 @@ void loop() {
 
   delay(2000);  // dont query too often!
 }
-```
