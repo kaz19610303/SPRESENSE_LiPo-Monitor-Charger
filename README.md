@@ -1,0 +1,2 @@
+# SPRESENSE_LiPo-Monitor-Charger
+Maxim IntegratedのMAX17048燃料ゲージICとMicrochipのMCP73831/2充電管理ICを組み合わせたボード
