@@ -12,5 +12,6 @@ MAX17048_advanced
 MAX17048_basic  
 の2つのサンプルがあります。
 
-MAX17048_basic 実行中
+MAX17048_basic 実行中  
+
 ![image](https://user-images.githubusercontent.com/14026974/235629642-d14efd14-f72a-469c-b67b-53f2c4d0a137.png)
